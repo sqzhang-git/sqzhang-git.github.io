@@ -287,8 +287,7 @@ function escapeAttribute(value) {
 
 function authorSummary(authors) {
   if (!authors.length) return "";
-  if (authors.length <= 4) return authors.join("; ");
-  return `${authors.slice(0, 3).join("; ")}; et al.`;
+  return authors.join("; ");
 }
 
 function paperLinks(paper) {
