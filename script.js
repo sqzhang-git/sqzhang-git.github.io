@@ -1,5 +1,20 @@
 const papers = [
   {
+    "title": "Residues on Permanent Pinches: Finite Integrals and Leading Divergences",
+    "authors": [
+      "Corradini, Dimitri",
+      "Vergu, Cristian",
+      "Shun-Qing Zhang"
+    ],
+    "year": 2026,
+    "publication": "",
+    "arxiv": "2609.02300",
+    "doi": "",
+    "citations": 0,
+    "url": "https://arxiv.org/abs/2609.02300",
+    "type": "article"
+  },
+  {
     "title": "Multi-Loop Negative Geometries",
     "authors": [
       "Dixon, Lance J.",
@@ -261,6 +276,7 @@ const papers = [
 ];
 
 const selectedTitles = new Set([
+  "Residues on Permanent Pinches: Finite Integrals and Leading Divergences",
   "Geometric Landau analysis and symbol bootstrap",
   "Complete computation of all three-loop five-point massless planar integrals",
   "Nonplanar integrated correlator in N=4 SYM",
