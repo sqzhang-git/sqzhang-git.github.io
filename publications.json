@@ -28,7 +28,7 @@
     "publication": "",
     "arxiv": "2605.28926",
     "doi": "",
-    "citations": 0,
+    "citations": 5,
     "url": "https://inspirehep.net/literature/3162436",
     "type": "article"
   },
@@ -46,7 +46,7 @@
     "publication": "JHEP 02 083",
     "arxiv": "2508.05443",
     "doi": "10.1007/JHEP02(2026)083",
-    "citations": 10,
+    "citations": 13,
     "url": "https://inspirehep.net/literature/2958317",
     "type": "article"
   },
@@ -79,7 +79,7 @@
     "publication": "JHEP 04 022",
     "arxiv": "2410.11456",
     "doi": "10.1007/JHEP04(2025)022",
-    "citations": 21,
+    "citations": 23,
     "url": "https://inspirehep.net/literature/2840305",
     "type": "article"
   },
@@ -97,7 +97,7 @@
     "publication": "Phys. Rev. Lett.",
     "arxiv": "2512.17330",
     "doi": "10.1103/bpn4-m92g",
-    "citations": 11,
+    "citations": 13,
     "url": "https://link.aps.org/doi/10.1103/bpn4-m92g",
     "type": "article"
   },
@@ -168,7 +168,7 @@
     "publication": "JHEP 01 141",
     "arxiv": "2111.03037",
     "doi": "10.1007/JHEP01(2022)141",
-    "citations": 29,
+    "citations": 31,
     "url": "https://inspirehep.net/literature/1960625",
     "type": "article"
   },
@@ -226,7 +226,7 @@
     "publication": "Phys.Rev.Lett. 122 111604",
     "arxiv": "1812.06111",
     "doi": "10.1103/PhysRevLett.122.111604",
-    "citations": 30,
+    "citations": 31,
     "url": "https://inspirehep.net/literature/1709386",
     "type": "article"
   },
@@ -254,7 +254,7 @@
     "publication": "Phys.Rev.D 98 045004",
     "arxiv": "1802.03148",
     "doi": "10.1103/PhysRevD.98.045004",
-    "citations": 71,
+    "citations": 72,
     "url": "https://inspirehep.net/literature/1654370",
     "type": "article"
   },
